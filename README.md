@@ -5,19 +5,27 @@ First of all shout out to all the modders in the Linkarus Modding Discord for he
 
 ## List of Mods : 
 
-1. [**Reasonable Water**](https://github.com/CryorusTheDragon/Icarus_Mods/tree/ReasonableWater) <br>
+### [**Reasonable Water**](https://github.com/CryorusTheDragon/Icarus_Mods/tree/ReasonableWater)
 Adds some new machines across T3 & T4 and moves the water pipe tool to the machining bench to make water more accessible in the middle game.<br>
 
-2. [**CARBON Paste**](https://github.com/CryorusTheDragon/Icarus_Mods/tree/CARBONPaste) <br>
+---
+
+### [**CARBON Paste**](https://github.com/CryorusTheDragon/Icarus_Mods/tree/CARBONPaste)
 Putting the CARBON back into carbon pase !<br>
 
-3. [**Improved T3&4 Tools**](https://github.com/CryorusTheDragon/Icarus_Mods/tree/Improved_T3+4_Tools) <br>
+---
+
+### [**Improved T3&4 Tools**](https://github.com/CryorusTheDragon/Icarus_Mods/tree/Improved_T3+4_Tools)
 A mod to adjust the platinum and titanium tier of tools to give actual reason to upgrade/sidegrade <br>
 NOTE: Very WIP and subject to lots of changes - ATM only adjustments to the tool stats like yield and dmg.
 
-4. Functional Mill <br>
+---
+
+### Functional Mill 
 Not yet started but planned
 WIP mod to add a tier between mortar & pestle and material processor ( why isnt there a grindstone already in the game ??)
+
+---
 
 
 ## Warning
