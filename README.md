@@ -1,2 +1,2 @@
-# Crys_Icarus_Mods
+# Cryorus' Icarus Mods
 A repository for all my Icarus Mods
