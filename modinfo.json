@@ -4,13 +4,13 @@
       "name": "Reasonable Water",
       "author": "Cryorus",
       "version": "1.0",
-      "compatibility": "w94",
-      "description": "Makes water a tiny bit more reasonable and accessible",
+      "compatibility": "w95",
+      "description": "Makes water a tiny bit more reasonable and accessible by adding land based drills and more tiers",
       "imageURL": "https://github.com/CryorusTheDragon/Icarus_Mods/blob/ReasonableWater/water%20pump.png",
       "readmeURL": "https://github.com/CryorusTheDragon/Icarus_Mods/blob/ReasonableWater/README.md",      
       "files": {
-        "pak": "the direct download URL for your PAK mod file",
-        "exmodz": "the direct download URL for your EXMODZ mod file"
+        "pak": "https://github.com/CryorusTheDragon/Icarus_Mods/raw/ReasonableWater/Reasonable%20Water_P.pak",
+        "exmodz": "https://github.com/CryorusTheDragon/Icarus_Mods/raw/ReasonableWater/Reasonable%20Water.EXMODZ"
       }
     }
   ]
