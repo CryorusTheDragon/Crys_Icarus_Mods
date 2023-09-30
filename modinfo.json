@@ -6,8 +6,8 @@
       "version": "1.0",
       "compatibility": "w94",
       "description": "Makes water a tiny bit more reasonable and accessible",
-      "imageURL": "https://github.com/CryorusTheDragon/Icarus_Mods/blob/2c58afc0151d7df9143fa47f73ca041ff9937b6b/water%20pump.png",
-      "readmeURL": "https://github.com/CryorusTheDragon/Icarus_Mods/blob/360760948acbf45a3663865a133398082366a0e2/README.md#reasonable-water",      
+      "imageURL": "https://github.com/CryorusTheDragon/Icarus_Mods/blob/ReasonableWater/water%20pump.png",
+      "readmeURL": "https://github.com/CryorusTheDragon/Icarus_Mods/blob/ReasonableWater/README.md",      
       "files": {
         "pak": "the direct download URL for your PAK mod file",
         "exmodz": "the direct download URL for your EXMODZ mod file"
