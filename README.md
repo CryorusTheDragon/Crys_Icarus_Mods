@@ -1,10 +1,10 @@
 # Cryorus' Icarus Mods
 
-##Shout-out
+Shout-out
 First of all shout out to all the modders in the Linkarus Modding Discord for helping me understand the games inner workings ! 
 
 ---
-##List of Mods : 
+List of Mods : 
 
 [**Reasonable Water**]( https://shorturl.at/hntX7 )
 
