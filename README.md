@@ -58,6 +58,6 @@ Not included YET are changes to the possible attachements, those are partially a
 
 ## Warning
  Warning :<br>
-This mod makes changes to the follwing .json files :<br> D_ProcessorRecipes <br>
+This mod makes changes to the follwing .json files :<br> D_ProcessorRecipes , D_ToolDamage <br>
 It is recommended to use the [Icarus Mod Manager by Jimk72](https://github.com/Jimk72/Icarus_Software/raw/main/IcarusModManager_1_6_7_Full.zip) to safely merge mods for the game.
 
