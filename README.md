@@ -5,15 +5,18 @@ First of all shout out to all the modders in the Linkarus Modding Discord for he
 
 ## List of Mods : 
 
-1. [**Reasonable Water**]( https://shorturl.at/hntX7 )
+1. [**Reasonable Water**]( https://shorturl.at/hntX7 ) <br>
+Adds some new machines across T3 & T4 and moves the water pipe tool to the machining bench to make water more accessible in the middle game.<br>
 
-- Too many T2 and T3 Stations have a possible Water intake but you cant access Water Networks until T4.<br>
- To add insult to injury you HAVE to be near a water source, which can cause long water networks impacting performance.<br>
- This mod introduces 3 new deployables to aid in your water needs.<br>
- A solid fuel, bio fuel and electric water drill allowing you to create water sources on land and caves.<br>
- For balance reasons those are more expensive than the water pump and bring 150 / 400 / 800 Units of water to the network.<br>
- As of now they use the generator mesh and model (which also works as a pseudo balance IMO)<br>
+2. CARBON Paste <br>
+To be added soon to git
 
+3. Improved T3&4 Tools <br>
+A mod to adjust the platinum and titanium tier of tools to give actual reason to upgrade/sidegrade <br>
+NOTE: Very WIP and subject to lots of changes - ATM only adjustments to the tool stats like yield and dmg.
+
+4. Functional Mill <br>
+WIP mod to add a tier between mortar & pestle and material processor ( why isnt there a grindstone already in the game ??)
 ## Warning
 It is recommended to use the [Icarus Mod Manager by Jimk72](https://github.com/Jimk72/Icarus_Software/raw/main/IcarusModManager_1_6_7_Full.zip) to safely merge mods for the game.
 
