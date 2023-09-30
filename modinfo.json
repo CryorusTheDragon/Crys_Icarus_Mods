@@ -1,0 +1,29 @@
+{
+  "mods": [
+    {
+      "name": "Reasonable Water",
+      "author": "Cryorus",
+      "version": "1.0",
+      "compatibility": "w94",
+      "description": "Changes the Water Pipe tool to be T3 and adds a variety of placeable drill to dig for water. Comes in solid fuel/bio fuel/electrical tiers",
+      "files": {
+        "pak": "the direct download URL for your PAK mod file",
+        "exmodz": "the direct download URL for your EXMODZ mod file"
+      },
+      "imageURL": "",
+      "readmeURL": ""
+    },
+    {
+      "name": "Second Mod Name",
+      "author": "see below",
+      "version": "see below",
+      "compatibility": "see below",
+      "description": "see below",
+      "files": {
+        "pak": "the direct download URL for your PAK mod file"
+      },
+      "imageURL": "see below",
+      "readmeURL": "see below"
+    }
+  ]
+}
