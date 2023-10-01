@@ -27,6 +27,58 @@
       }
     },
     {
+      "name": "Cry's Lvl 120 Cap - 100%",
+      "author": "Cryorus",
+      "version": "1.0",
+      "compatibility": "w95",
+      "description": "Raises the visible Level Cap to 120 and gives enough skill points to 100% the skill trees",
+      "imageURL": "https://github.com/CryorusTheDragon/Icarus_Mods/blob/Cry's-Advanced-Leveling/talents.png",
+      "readmeURL": "https://github.com/CryorusTheDragon/Icarus_Mods/blob/Cry's-Advanced-Leveling/README.md",      
+      "files": {
+        "pak": "https://github.com/CryorusTheDragon/Icarus_Mods/raw/Cry's-Advanced-Leveling/Crys_Lvl120Cap_M100_P.pak",
+        "exmodz": "https://github.com/CryorusTheDragon/Icarus_Mods/raw/Cry's-Advanced-Leveling/Crys_Lvl120Cap_M100.EXMODZ"
+      }
+    },
+    {
+      "name": "Cry's Lvl 120 Cap - 75%",
+      "author": "Cryorus",
+      "version": "1.0",
+      "compatibility": "w95",
+      "description": "Raises the visible Level Cap to 120 and gives enough skill points to fill 75% of the skills",
+      "imageURL": "https://github.com/CryorusTheDragon/Icarus_Mods/blob/Cry's-Advanced-Leveling/talents.png",
+      "readmeURL": "https://github.com/CryorusTheDragon/Icarus_Mods/blob/Cry's-Advanced-Leveling/README.md",      
+      "files": {
+        "pak": "https://github.com/CryorusTheDragon/Icarus_Mods/raw/Cry's-Advanced-Leveling/Crys_Lvl120Cap_M75_P.pak",
+        "exmodz": "https://github.com/CryorusTheDragon/Icarus_Mods/raw/Cry's-Advanced-Leveling/Crys_Lvl120Cap_M75.EXMODZ"
+      }
+    },
+    {
+      "name": "Cry's Lvl 120 Cap - 50%",
+      "author": "Cryorus",
+      "version": "1.0",
+      "compatibility": "w95",
+      "description": "Raises the visible Level Cap to 120 and gives enough skill points to fill 50% of the skills",
+      "imageURL": "https://github.com/CryorusTheDragon/Icarus_Mods/blob/Cry's-Advanced-Leveling/talents.png",
+      "readmeURL": "https://github.com/CryorusTheDragon/Icarus_Mods/blob/Cry's-Advanced-Leveling/README.md",      
+      "files": {
+        "pak": "https://github.com/CryorusTheDragon/Icarus_Mods/raw/Cry's-Advanced-Leveling/Crys_Lvl120Cap_M50_P.pak",
+        "exmodz": "https://github.com/CryorusTheDragon/Icarus_Mods/raw/Cry's-Advanced-Leveling/Crys_Lvl120Cap_M50.EXMODZ"
+      }
+    },
+    {
+      "name": "Cry's Lvl 120 Cap - 25%",
+      "author": "Cryorus",
+      "version": "1.0",
+      "compatibility": "w95",
+      "description": "Raises the visible Level Cap to 120 and gives enough skill points to fill 25% of the skills",
+      "imageURL": "https://github.com/CryorusTheDragon/Icarus_Mods/blob/Cry's-Advanced-Leveling/talents.png",
+      "readmeURL": "https://github.com/CryorusTheDragon/Icarus_Mods/blob/Cry's-Advanced-Leveling/README.md",      
+      "files": {
+        "pak": "https://github.com/CryorusTheDragon/Icarus_Mods/raw/Cry's-Advanced-Leveling/Crys_Lvl120Cap_M25_P.pak",
+        "exmodz": "https://github.com/CryorusTheDragon/Icarus_Mods/raw/Cry's-Advanced-Leveling/Crys_Lvl120Cap_M25.EXMODZ"
+      }
+    },
+    {
       "name": "Improved T3&4 Tools",
       "author": "Cryorus",
       "version": "1.0",
