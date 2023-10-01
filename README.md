@@ -1,35 +1,47 @@
-# Cryorus' Icarus Mods
+# Cry's Advanced Leveling // Lvl 120 Cap 
+[Cry's Advanced Leveling // Lvl 120 Cap ](https://github.com/CryorusTheDragon/Icarus_Mods/edit/Cry's-Advanced-Leveling)
 
-## Shout-out
-First of all shout out to all the modders in the Linkarus Modding Discord for helping me understand the games inner workings ! 
+This suite of mods raise the visible level cap to lvl 120 and change the amount of Solo and General Talent Points granted. 
+Solo Tree is maxed out at lvl 100 for all variants. 
 
-## List of Mods : 
+The game as of week 95 has 538 Talent Points in total in the player trees so this mod comes in 4 different flavours : 
+25% , 50% , 75% and 100% of the total skill points needed
 
-### [**Reasonable Water**](https://github.com/CryorusTheDragon/Icarus_Mods/tree/ReasonableWater)
-Adds some new machines across T3 & T4 and moves the water pipe tool to the machining bench to make water more accessible in the middle game.<br>
+I tried to keep the curve relative the same as if the normal 90 from the game would be gotten by lvl 60
 
----
+## 25% Skill Points
+| Level | SkillPoints |
+|-----:|-----------|
+|     30| 50|
+|     60| 100|
+|     90| 119|
+|    120| 135|
 
-### [**CARBON Paste**](https://github.com/CryorusTheDragon/Icarus_Mods/tree/CARBONPaste)
-Putting the CARBON back into carbon pase !<br>
+## 50% Skill Points:
+| Level | SkillPoints |
+|-----:|-----------|
+|     30| 100|
+|     60| 200|
+|     90| 238|
+|    120| 269|
 
----
+## 75% Skill Points:
+| Level | SkillPoints |
+|-----:|-----------|
+|     30| 150|
+|     60| 300|
+|     90| 356|
+|    120| 404|
 
-### [**Improved T3&4 Tools**](https://github.com/CryorusTheDragon/Icarus_Mods/tree/Improved_T3+4_Tools)
-A mod to adjust the platinum and titanium tier of tools to give actual reason to upgrade/sidegrade <br>
-NOTE: Very WIP and subject to lots of changes - ATM only adjustments to the tool stats like yield and dmg.
-
----
-
-### Functional Mill 
-Not yet started but planned
-WIP mod to add a tier between mortar & pestle and material processor ( why isnt there a grindstone already in the game ??)
-
----
-
+## 100% Skill Points:
+| Level | SkillPoints |
+|-----:|-----------|
+|     30| 200|
+|     60| 400|
+|     90| 475|
+|    120| 538|
 
 ## Warning
+ Warning :<br>
+This mod makes changes to the follwing .json files :<br> D_CharacterGrowth // And the files C_PlayerTalentGrowth.uasset and C_SoloTalentGrowth<br>
 It is recommended to use the [Icarus Mod Manager by Jimk72](https://github.com/Jimk72/Icarus_Software/raw/main/IcarusModManager_1_6_7_Full.zip) to safely merge mods for the game.
-
-
----
