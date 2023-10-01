@@ -15,12 +15,17 @@ Putting the CARBON back into carbon pase !<br>
 
 ---
 
+### [**Cry's Advanced Leveling // Lvl 120 Cap**](https://github.com/CryorusTheDragon/Icarus_Mods/edit/Cry's-Advanced-Leveling)
+A Suite of mods to raise the lvl cap and give more skill points<br>
+Use only ONE at a time! <br>
+
+---
+
 ### [**Improved T3&4 Tools**](https://github.com/CryorusTheDragon/Icarus_Mods/tree/Improved_T3+4_Tools)
 A mod to adjust the platinum and titanium tier of tools to give actual reason to upgrade/sidegrade <br>
 NOTE: Very WIP and subject to lots of changes - ATM only adjustments to the tool stats like yield and dmg.
 
 ---
-
 ### Functional Mill 
 Not yet started but planned
 WIP mod to add a tier between mortar & pestle and material processor ( why isnt there a grindstone already in the game ??)
