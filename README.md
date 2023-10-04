@@ -21,6 +21,14 @@ Use only ONE at a time! <br>
 
 ---
 
+
+### [**Flick Those Devices**](https://github.com/CryorusTheDragon/Icarus_Mods/edit/Flick-Those-Devices)
+Simple and straightforward : 
+Allows many devices like generators , furnaces to be flicked on or off by pressing the interact button while looking at it. 
+Accessing the UI is now a "hold interact" action for those. 
+
+---
+
 ### [**Improved T3&4 Tools**](https://github.com/CryorusTheDragon/Icarus_Mods/tree/Improved_T3+4_Tools)
 A mod to adjust the platinum and titanium tier of tools to give actual reason to upgrade/sidegrade <br>
 NOTE: Very WIP and subject to lots of changes - ATM only adjustments to the tool stats like yield and dmg.
