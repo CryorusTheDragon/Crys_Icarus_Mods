@@ -7,7 +7,7 @@
       "compatibility": "w95",
       "description": "Makes water a tiny bit more reasonable and accessible by adding land based drills and more tiers",
       "imageURL": "https://github.com/CryorusTheDragon/Icarus_Mods/blob/ReasonableWater/waterpump.png",
-      "readmeURL": "https://github.com/CryorusTheDragon/Icarus_Mods/blob/ReasonableWater/README.md",      
+      "readmeURL": "https://github.com/CryorusTheDragon/Icarus_Mods/raw/ReasonableWater/README.md",      
       "files": {
         "pak": "https://github.com/CryorusTheDragon/Icarus_Mods/raw/ReasonableWater/ReasonableWater_P.pak",
         "exmodz": "https://github.com/CryorusTheDragon/Icarus_Mods/raw/ReasonableWater/ReasonableWater.EXMODZ"
@@ -20,7 +20,7 @@
       "compatibility": "w95",
       "description": "Putting the CARBON back into Carbon Paste",
       "imageURL": "https://github.com/CryorusTheDragon/Icarus_Mods/blob/CARBONPaste/carbon.png",
-      "readmeURL": "https://github.com/CryorusTheDragon/Icarus_Mods/blob/CARBONPaste/README.md",      
+      "readmeURL": "https://github.com/CryorusTheDragon/Icarus_Mods/raw/CARBONPaste/README.md",      
       "files": {
         "pak": "https://github.com/CryorusTheDragon/Icarus_Mods/raw/CARBONPaste/CARBONPaste_P.pak",
         "exmodz": "https://github.com/CryorusTheDragon/Icarus_Mods/raw/CARBONPaste/CARBON_Paste.EXMODZ"
@@ -33,7 +33,7 @@
       "compatibility": "w95",
       "description": "Raises the visible Level Cap to 120 and gives enough skill points to 100% the skill trees",
       "imageURL": "https://github.com/CryorusTheDragon/Icarus_Mods/blob/Cry's-Advanced-Leveling/talents.png",
-      "readmeURL": "https://github.com/CryorusTheDragon/Icarus_Mods/blob/Cry's-Advanced-Leveling/README.md",      
+      "readmeURL": "https://github.com/CryorusTheDragon/Icarus_Mods/raw/Cry's-Advanced-Leveling/README.md",      
       "files": {
         "pak": "https://github.com/CryorusTheDragon/Icarus_Mods/raw/Cry's-Advanced-Leveling/Crys_Lvl120Cap_M100_P.pak",
         "exmodz": "https://github.com/CryorusTheDragon/Icarus_Mods/raw/Cry's-Advanced-Leveling/Crys_Lvl120Cap_M100.EXMODZ"
@@ -46,7 +46,7 @@
       "compatibility": "w95",
       "description": "Raises the visible Level Cap to 120 and gives enough skill points to fill 75% of the skills",
       "imageURL": "https://github.com/CryorusTheDragon/Icarus_Mods/blob/Cry's-Advanced-Leveling/talents.png",
-      "readmeURL": "https://github.com/CryorusTheDragon/Icarus_Mods/blob/Cry's-Advanced-Leveling/README.md",      
+      "readmeURL": "https://github.com/CryorusTheDragon/Icarus_Mods/raw/Cry's-Advanced-Leveling/README.md",      
       "files": {
         "pak": "https://github.com/CryorusTheDragon/Icarus_Mods/raw/Cry's-Advanced-Leveling/Crys_Lvl120Cap_M75_P.pak",
         "exmodz": "https://github.com/CryorusTheDragon/Icarus_Mods/raw/Cry's-Advanced-Leveling/Crys_Lvl120Cap_M75.EXMODZ"
@@ -59,7 +59,7 @@
       "compatibility": "w95",
       "description": "Raises the visible Level Cap to 120 and gives enough skill points to fill 50% of the skills",
       "imageURL": "https://github.com/CryorusTheDragon/Icarus_Mods/blob/Cry's-Advanced-Leveling/talents.png",
-      "readmeURL": "https://github.com/CryorusTheDragon/Icarus_Mods/blob/Cry's-Advanced-Leveling/README.md",      
+      "readmeURL": "https://github.com/CryorusTheDragon/Icarus_Mods/raw/Cry's-Advanced-Leveling/README.md",      
       "files": {
         "pak": "https://github.com/CryorusTheDragon/Icarus_Mods/raw/Cry's-Advanced-Leveling/Crys_Lvl120Cap_M50_P.pak",
         "exmodz": "https://github.com/CryorusTheDragon/Icarus_Mods/raw/Cry's-Advanced-Leveling/Crys_Lvl120Cap_M50.EXMODZ"
@@ -72,7 +72,7 @@
       "compatibility": "w95",
       "description": "Raises the visible Level Cap to 120 and gives enough skill points to fill 25% of the skills",
       "imageURL": "https://github.com/CryorusTheDragon/Icarus_Mods/blob/Cry's-Advanced-Leveling/talents.png",
-      "readmeURL": "https://github.com/CryorusTheDragon/Icarus_Mods/blob/Cry's-Advanced-Leveling/README.md",      
+      "readmeURL": "https://github.com/CryorusTheDragon/Icarus_Mods/raw/Cry's-Advanced-Leveling/README.md",      
       "files": {
         "pak": "https://github.com/CryorusTheDragon/Icarus_Mods/raw/Cry's-Advanced-Leveling/Crys_Lvl120Cap_M25_P.pak",
         "exmodz": "https://github.com/CryorusTheDragon/Icarus_Mods/raw/Cry's-Advanced-Leveling/Crys_Lvl120Cap_M25.EXMODZ"
@@ -85,7 +85,7 @@
       "compatibility": "w95",
       "description": "Making various changes to T3 & 4 Tools to make them viable up/sidegrades",
       "imageURL": "https://github.com/CryorusTheDragon/Icarus_Mods/blob/Improved_T3%2B4_Tools/pick.png",
-      "readmeURL": "https://github.com/CryorusTheDragon/Icarus_Mods/blob/Improved_T3%2B4_Tools/README.md",      
+      "readmeURL": "https://github.com/CryorusTheDragon/Icarus_Mods/raw/Improved_T3%2B4_Tools/README.md",      
       "files": {
         "pak": "https://github.com/CryorusTheDragon/Icarus_Mods/raw/Improved_T3%2B4_Tools/Improved_T3%2B4_Tools_P.pak",
         "exmodz": "https://github.com/CryorusTheDragon/Icarus_Mods/raw/Improved_T3%2B4_Tools/Improved_T3%2B4_Tools.EXMODZ"
@@ -98,7 +98,7 @@
       "compatibility": "w95",
       "description": "Adds the abilit to turn some devices like the chimney or furnaces on and off with a button press just like wall torches",
       "imageURL": "https://github.com/CryorusTheDragon/Icarus_Mods/blob/Flick-Those-Devices/clicky.png",
-      "readmeURL": "https://github.com/CryorusTheDragon/Icarus_Mods/blob/Flick-Those-Devices/README.md",      
+      "readmeURL": "https://github.com/CryorusTheDragon/Icarus_Mods/raw/Flick-Those-Devices/README.md",      
       "files": {
         "pak": "https://github.com/CryorusTheDragon/Icarus_Mods/raw/Flick-Those-Devices/FlickyClicky_P.pak",
         "exmodz": "https://github.com/CryorusTheDragon/Icarus_Mods/raw/Flick-Those-Devices/FlickyClicky.EXMODZ"
