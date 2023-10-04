@@ -90,6 +90,19 @@
         "pak": "https://github.com/CryorusTheDragon/Icarus_Mods/raw/Improved_T3%2B4_Tools/Improved_T3%2B4_Tools_P.pak",
         "exmodz": "https://github.com/CryorusTheDragon/Icarus_Mods/raw/Improved_T3%2B4_Tools/Improved_T3%2B4_Tools.EXMODZ"
       }
+    },
+    {
+      "name": "Flick Those Devices",
+      "author": "Cryorus",
+      "version": "1.0",
+      "compatibility": "w95",
+      "description": "Adds the abilit to turn some devices like the chimney or furnaces on and off with a button press just like wall torches",
+      "imageURL": "https://github.com/CryorusTheDragon/Icarus_Mods/blob/Flick-Those-Devices/clicky.png",
+      "readmeURL": "https://github.com/CryorusTheDragon/Icarus_Mods/blob/Flick-Those-Devices/README.md",      
+      "files": {
+        "pak": "https://github.com/CryorusTheDragon/Icarus_Mods/raw/Flick-Those-Devices/FlickyClicky_P.pak",
+        "exmodz": "https://github.com/CryorusTheDragon/Icarus_Mods/raw/Flick-Those-Devices/FlickyClicky.EXMODZ"
+      }
     }
   ]
 }
