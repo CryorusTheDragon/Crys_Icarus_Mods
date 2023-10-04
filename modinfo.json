@@ -103,6 +103,19 @@
         "pak": "https://github.com/CryorusTheDragon/Icarus_Mods/raw/Flick-Those-Devices/FlickyClicky_P.pak",
         "exmodz": "https://github.com/CryorusTheDragon/Icarus_Mods/raw/Flick-Those-Devices/FlickyClicky.EXMODZ"
       }
+    },
+    {
+      "name": "Reasonable Water - Flick Those Devices Add-On",
+      "author": "Cryorus",
+      "version": "1.0",
+      "compatibility": "w95",
+      "description": "Adds the ability to turn the water drills on or off with a button press just like wall torches",
+      "imageURL": "https://github.com/CryorusTheDragon/Icarus_Mods/blob/Flick-Those-Devices/clicky.png",
+      "readmeURL": "https://github.com/CryorusTheDragon/Icarus_Mods/raw/Flick-Those-Devices/README.md",      
+      "files": {
+        "pak": "https://github.com/CryorusTheDragon/Icarus_Mods/raw/Flick-Those-Devices/ReasonableWater-Flick%20Add-On_P.pak",
+        "exmodz": "https://github.com/CryorusTheDragon/Icarus_Mods/raw/Flick-Those-Devices/ReasonableWater-Flick%20Add-On_P.pak.EXMODZ"
+      }
     }
   ]
 }
