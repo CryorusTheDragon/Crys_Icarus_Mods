@@ -22,7 +22,7 @@ Use only ONE at a time! <br>
 ---
 
 
-### [**Flick Those Devices**](https://github.com/CryorusTheDragon/Icarus_Mods/edit/Flick-Those-Devices)
+### [**Flick Those Devices**](https://github.com/CryorusTheDragon/Icarus_Mods/tree/Flick-Those-Devices)
 Simple and straightforward : 
 Allows many devices like generators , furnaces to be flicked on or off by pressing the interact button while looking at it. 
 Accessing the UI is now a "hold interact" action for those. 
