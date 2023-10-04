@@ -5,6 +5,9 @@ Simple and straightforward :
 Allows many devices like generators , furnaces to be flicked on or off by pressing the interact button while looking at it. 
 Accessing the UI is now a "hold interact" action for those. 
 
+## Add-On :
+An Add-On mod for my [Reasonable Water mod](https://shorturl.at/hntX7) that enables the flick function on them as well.
+
 ## Warning
  Warning :<br>
 This mod makes changes to the follwing .json files :<br> D_ItemsStatic, D_Interactable, D_Interactions <br>
